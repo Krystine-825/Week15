@@ -1,6 +1,10 @@
 import java.util.List;
 
 public class SelectionSort implements Strategy {
+
+    /**
+     * 22024567.
+     */
     @Override
     public void sort(List<Integer> list) {
         System.out.print("Selection Sort: ");

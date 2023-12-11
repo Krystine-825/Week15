@@ -7,6 +7,9 @@ public class Context {
         this.strategy = strategy;
     }
 
+    /**
+     * 22024567.
+     */
     public void sortStrategy(List<Integer> list) {
         strategy.sort(list);
     }

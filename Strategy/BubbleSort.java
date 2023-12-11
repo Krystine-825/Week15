@@ -1,6 +1,9 @@
 import java.util.List;
 
 public class BubbleSort implements Strategy {
+    /**
+     * 22024567.
+     */
     @Override
     public void sort(List<Integer> list) {
         System.out.print("Bubble Sort: ");

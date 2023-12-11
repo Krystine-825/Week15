@@ -7,7 +7,10 @@ public class Person {
     private final String sex;
     private final String married;
     private final List<Person> children;
-
+    
+    /**
+     * 22024567.
+     */
     public Person(String name, String birthDate, String sex, String married) {
         this.name = name;
         this.birthDate = birthDate;

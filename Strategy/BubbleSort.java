@@ -1,5 +1,3 @@
-package Strategy;
-
 import java.util.List;
 
 public class BubbleSort implements Strategy {
